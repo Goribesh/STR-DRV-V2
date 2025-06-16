@@ -1,0 +1,6 @@
+D:/progetti_stm_vscode/STR-DRV-V2/CMakeFiles/STR-DRV-V2.dir
+D:/progetti_stm_vscode/STR-DRV-V2/CMakeFiles/edit_cache.dir
+D:/progetti_stm_vscode/STR-DRV-V2/CMakeFiles/rebuild_cache.dir
+D:/progetti_stm_vscode/STR-DRV-V2/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+D:/progetti_stm_vscode/STR-DRV-V2/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/progetti_stm_vscode/STR-DRV-V2/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
